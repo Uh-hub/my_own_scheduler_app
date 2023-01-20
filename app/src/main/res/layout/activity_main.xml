@@ -19,7 +19,7 @@
         android:id="@+id/editTextText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="할 일 작성란"
+        android:hint="할 일 작성란 바꿔"
         android:inputType="text"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
